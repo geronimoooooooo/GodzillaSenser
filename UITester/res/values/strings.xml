@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UITester</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="m_str_textview2">text2</string>
+    <string name="button1_text">create item</string>
+    <string name="title_activity_uilayout_helper">UILayoutHelper</string>
+    <string name="setTag_button2">b2</string>
+
+</resources>
